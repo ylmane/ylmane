@@ -1,6 +1,6 @@
 ### Hi I'm Yogiraj 
 
-###I share knowledge through my code💙️.
+### I share knowledge through my code💙️.
 
 
 - 🔭 I’m currently working at Accenture
