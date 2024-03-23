@@ -4,7 +4,7 @@
 
  - 🔭 I’m currently working at Accenture
  - 🌱 I’m currently learning Full Stack Python
- - 💬 Ask me about RPA, Java, Problem Solving
+ - 💬 Ask me about RPA, Java, Problem Solving, Web Designing
  - 📫 How to reach me: maneyogiraj11@gmail.com
 
 
